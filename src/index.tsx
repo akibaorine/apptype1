@@ -6,5 +6,3 @@ const rootElement = document.getElementById("root")!;
 const root = ReactDOM.createRoot(rootElement);
 
 root.render(<App />);
-//編集
-//編集
